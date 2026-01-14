@@ -2,9 +2,7 @@
 
 ## Hi, I'm [Theppanadda Cheewarungrod(Xinli)] 
 
-Junior Software Engineer with a strong interest in building real-world systems.
-I work primarily with C#, Python, and Unity, and focus on clean architecture,
-debugging, and maintainable code.
+Junior Software Engineer with a focus on building real-world systems and maintaining clean, maintainable code. I work primarily with C#, Python, and Unity, with strong interests in system design, debugging, and data-driven logic.
 
 ### Tech Stack
 - Languages: C#, Python, C++
@@ -13,7 +11,7 @@ debugging, and maintainable code.
 - Areas of Interest: System design, debugging, data-driven logic
 
 ### Featured Project
-**Unity Game – Steam Release**  
+**Unity Game - Solo Development(itch.io)**  
 Solo-developed and released a complete Unity game.
 This project demonstrates end-to-end software engineering experience,
 including system design, debugging shared logic, performance fixes,
