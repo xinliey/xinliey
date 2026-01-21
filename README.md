@@ -16,10 +16,11 @@ debugging, and maintainable code.
 **Unity Game – Steam Release**  
 Solo-developed and released a complete Unity game.
 This project demonstrates end-to-end software engineering experience,
-including system design, debugging shared logic, performance fixes,
-and release preparation.
+including system design, debugging shared logic and performance fixes. Beta version released on Itch.io.
 
-See pinned repository below.
+**.NET/SQL - Billing system**
+Solo-developing Business-focused backend project simulating real-world billing workflows and database-driven logic.
+
 
 ###  Languages
 - Thai (Native)
